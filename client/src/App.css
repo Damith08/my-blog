@@ -122,7 +122,7 @@ div.post-page div.image img {
 
 div.post-page a {
   color: #333;
-  text-decoration: overline;
+  text-decoration: underline;
 }
 
 div.post-page h1 {
